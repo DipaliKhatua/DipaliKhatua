@@ -12,7 +12,6 @@
 - 👯 I’m looking to collaborate on **Machine Learning & AI Projects**  
 - 🤝 I’m looking for help with **Advancing AI in Medical Diagnostics (Tongue Image Analysis)**  
 - 💬 Ask me about **Data Science, Machine Learning, Python, SQL, Power BI, and Cloud Data Engineering**  
-- 📫 How to reach me **khatuadipsha@gmail.com**  
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/dipalikhatua/)  
 
 <h3 align="left">Connect with me:</h3>
